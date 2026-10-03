@@ -1,0 +1,54 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ROS 2 / colcon
+build/
+install/
+log/
+
+# C/C++
+*.o
+*.a
+*.so
+*.elf
+*.bin
+*.hex
+
+# KiCad generated/backups
+*-backups/
+*.lck
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+_autosave-*
+
+# CAD temporary/export cache
+*.autosave
+*.bak
+*.tmp
+
+# Simulation/cache
+.cache/
+__pycache__/
+
+# Logs / large recordings
+*.ulg
+*.bag
+*.mcap
+*.db3
+*.log
+
+# Generated manufacturing packages
+*.zip
